@@ -5,11 +5,13 @@
 <img width="75" height="307" alt="rustacean-orig-noshadow" src="https://github.com/user-attachments/assets/983e4913-db56-482a-8daa-5559680ecda8" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM32⚡-Hardware-blue?style=for-the-badge&logo=stmicroelectronics" />
+ <img src="https://img.shields.io/badge/STM32⚡-Hardware-blue?style=for-the-badge&logo=stmicroelectronics" />
   <img src="https://img.shields.io/badge/Rust🦀-Embarcado-orange?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/Autodidata📚-Em%20progresso-brightgreen?style=for-the-badge" />
 </p>
 
+
+<img width="700" height="750" alt="image" src="https://github.com/user-attachments/assets/79e7332b-fc66-439e-ad1b-e0ab91b236bb"/>
 
 ---
 
@@ -58,8 +60,8 @@ O diferencial deste projeto é que todo o firmware será desenvolvido **em Rust*
 | 🔋 **Alimentação** | Circuito regulado a partir da fonte chaveada |
 
 ---
-![braço robotico, placa stm32f303re e fonte chaveada 12w](link_da_foto_360)
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/ffd503f8-5859-45bb-b4af-83e7d589e5a3" />
+# placa: STM32F303RE
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/1cb1ef4e-c55c-4a92-b427-2e2799f0c44d" />
 
 
 ## 📦 Estrutura do Projeto
