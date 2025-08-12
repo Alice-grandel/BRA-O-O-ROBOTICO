@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+STM32F303RE+com+Rust+—+Projeto+Braço+Robótico;Aprendizado+Real+com+Hardware+Real!+💡" alt="PROJETO BRAÇO ROBÓTICO" /> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+STM32F303RE+com+Rust+—+Projeto+Braço+Robótico;Aprendizado+Real+com+Hardware+Real!+💡" alt="🧬 PROJETO BRAÇO ROBÓTICO " /> <br>
 </h1>
 
-<img width="45" height="2051" alt="Rust Logo" src="https://github.com/user-attachments/assets/fce28b01-dcc8-4f22-acb8-8cdffb4b9799" />
+<img width="75" height="307" alt="rustacean-orig-noshadow" src="https://github.com/user-attachments/assets/983e4913-db56-482a-8daa-5559680ecda8" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STM32⚡-Hardware-blue?style=for-the-badge&logo=stmicroelectronics" />
